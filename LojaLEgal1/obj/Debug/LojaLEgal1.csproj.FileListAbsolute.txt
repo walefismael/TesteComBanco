@@ -1,0 +1,5 @@
+c:\users\alunos\documents\visual studio 2013\Projects\LojaLEgal1\LojaLEgal1\bin\Debug\LojaLEgal1.dll
+c:\users\alunos\documents\visual studio 2013\Projects\LojaLEgal1\LojaLEgal1\bin\Debug\LojaLEgal1.pdb
+c:\users\alunos\documents\visual studio 2013\Projects\LojaLEgal1\LojaLEgal1\obj\Debug\LojaLEgal1.csprojResolveAssemblyReference.cache
+c:\users\alunos\documents\visual studio 2013\Projects\LojaLEgal1\LojaLEgal1\obj\Debug\LojaLEgal1.dll
+c:\users\alunos\documents\visual studio 2013\Projects\LojaLEgal1\LojaLEgal1\obj\Debug\LojaLEgal1.pdb
